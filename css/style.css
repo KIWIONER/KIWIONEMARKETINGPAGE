@@ -3,3 +3,7 @@ header{display: flex;flex-direction:column;background-color: black;}
 ul{display:flex; flex-direction: row;}
 li{list-style-type: none;margin: 30px;}
 a{text-decoration: none;color: yellow;font-size: 35px;}
+h1{text-align:center;}
+h2{text-align: center;}
+.BgBorder{ background-color: white;border-radius: 10px;width: 50%;}
+img{width: 100%;margin-top: 30px;margin-right: 20px;}
